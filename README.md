@@ -1,0 +1,9 @@
+- [ ] vanilla gradient descent
+- [ ] Newton’s method 
+- [ ] damped Newton’s method
+- [ ] conjugate gradient descent  
+- [ ] momentum 
+- [ ] Nesterov accelerated gradient
+- [ ] Adagrad 
+- [ ] Adadelta/RMSprop 
+- [ ] Adam 
