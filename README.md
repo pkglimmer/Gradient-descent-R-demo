@@ -6,7 +6,7 @@
 - [x] Nesterov accelerated gradient
 - [x] Adagrad 
 - [x] Adadelta/RMSprop 
-- [ ] Adam 
+- [x] Adam 
 
 
 
